@@ -1,17 +1,17 @@
-# <p align="center">:man_student: Git & GitHub :woman_student:
+# <p align="center">:man_student: Projetos - Testes - Exemplos :woman_student:
 
 ## <p align="center">
 
 
 
-- Explicando o Git;<br>
-- Explicando o Github;<br>
-- Diversos comandos passo-a-passo;<br> 
+- ;<br>
+- ;<br>
+- ;<br> 
 
 
-# <p align="center">☕🤓💻 _ Follow @Bruno_GSiq
+# <p align="center">☕🤓💻 _ Follow @colocar linktree
 
-(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910 <br>
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/ <br>
 
-(Linktree)  = 👨‍🎓 = https://linktr.ee/brunogsiq<br>
+(Linktree)  = 👨‍🎓 = https://linktr.ee/<br>
 
